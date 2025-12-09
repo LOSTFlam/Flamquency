@@ -1,0 +1,7 @@
+{
+  "name": "Flamquency",
+  "description": "An all-in-one AI music production assistant. Features melody generation, audio analysis, lyric writing, vocal coaching, and mixing engineering advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
