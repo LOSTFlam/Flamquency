@@ -35,6 +35,8 @@ juce_add_library(flamquency_engine STATIC
         src/mixer/AutomationManager.h
         src/mixer/OfflineRenderer.cpp
         src/mixer/OfflineRenderer.h
+        src/ipc/WebSocketServer.cpp
+        src/ipc/WebSocketServer.h
         src/utils/LockFreeQueue.h
 )
 
